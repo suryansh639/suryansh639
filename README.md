@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
-- 📝 I regularly write articles on <a href="https://blogcompany.in/" target="blank"></a>
+- 📝 I regularly write articles on <a href="https://blogcompany.in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://blogcompany.in/" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

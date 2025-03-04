@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
-- 📝 I regularly write articles on blogcompany.in
+- 📝 I regularly write articles on <a href="https://blogcompany.in/" target="blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

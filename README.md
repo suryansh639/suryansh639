@@ -1,3 +1,6 @@
+<head>
+  <meta name="google-site-verification" content="kQ6li6cpqQ1CYNNr4Z5ejn16SArZOCAi1Eew9WzKCx0" />
+</head>
 <h1 align="center">Hi 👋, I'm Suryansh Gupta</h1>
 <h3 align="center">A passionate software developer and devops engineer from India</h3>
 

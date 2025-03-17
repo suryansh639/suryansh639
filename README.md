@@ -1,3 +1,4 @@
+<head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V0JH1KDG21"></script>
 <script>
@@ -7,6 +8,7 @@
 
   gtag('config', 'G-V0JH1KDG21');
 </script>
+</head>
 <h1 align="center">Hi 👋, I'm Suryansh Gupta</h1>
 <h3 align="center">A passionate software developer and devops engineer from India</h3>
 

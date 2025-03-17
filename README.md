@@ -1,14 +1,6 @@
 
 
-<h1 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V0JH1KDG21"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-V0JH1KDG21');
-</script>
-align="center">Hi 👋, I'm Suryansh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Suryansh Gupta</h1>
 <h3 align="center">A passionate software developer and devops engineer from India</h3>
 
 - 🔭 I’m currently working on **Artificial Intelligence**

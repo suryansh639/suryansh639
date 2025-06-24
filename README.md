@@ -1,3 +1,10 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=tashifkhan&style=for-the-badge&color=orange" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&color=79c2f3&&duration=4000&lines=Hello+World!;I'm+Suryansh+Gupta!;>+Coding+my+problems_" />
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Suryansh Gupta</h1>

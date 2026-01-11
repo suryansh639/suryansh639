@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
-- 📝 I regularly write articles on <a href="https://blogcompany.in/" target="blank"><img align="center" src="https://github.com/suryansh639/suryansh639/blob/main/blog%20company.png?raw=true" alt="https://blogcompany.in/" height="40" width="80" /></a>
+- 📝 I build an automation platform that lets you automate your cloud infrastructure and will be your 2AM production friend<a href="https://unideploy.com/" target="blank"><img align="center" src="https://github.com/suryansh639/suryansh639/blob/main/blog%20company.png?raw=true" alt="https://blogcompany.in/" height="40" width="80" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suryanshg-gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suryanshg-gupta/" height="30" width="40" /></a>
